@@ -894,13 +894,13 @@ if analyze:
                 f"{score['analyst_score']}/10"
             )
 
-        if score["investment_grade"] == "A":
+        if score["investment_grade"] == "A" or "A+":
 
             st.success(
                 "🟢 높은 투자 매력도를 보유한 우수 기업입니다."
             )
 
-        elif score["investment_grade"] == "B":
+        elif score["investment_grade"] == "B" or "B+":
 
             st.info(
                 "🔵 장기 투자 관점에서 긍정적으로 검토할 수 있는 기업입니다."
@@ -934,13 +934,13 @@ if analyze:
                 f"⚠️ {weakness}"
             )
 
-        if score["investment_grade"] == "A":
+        if score["investment_grade"] == "A" or "A+":
 
             st.success(
                 "현재 투자매력도가 높고 장기 경쟁력도 우수한 기업입니다."
             )
 
-        elif score["investment_grade"] == "B":
+        elif score["investment_grade"] == "B" or "B+":
 
             st.info(
                 "현재 투자매력도는 양호하며 장기 경쟁력도 기대할 수 있는 기업입니다."
