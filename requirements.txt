@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+plotly
+beautifulsoup4
+lxml
+requests
+deep-translator

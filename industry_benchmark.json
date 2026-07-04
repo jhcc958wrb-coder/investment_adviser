@@ -1,0 +1,90 @@
+{
+    "Industrials": {
+        "PER": 31.23,
+        "PBR": 6.06,
+        "ROE": 24.55,
+        "Debt": 76.54,
+        "RevenueGrowth": 7.75,
+        "EarningsGrowth": 11.05
+    },
+    "Health Care": {
+        "PER": 25.32,
+        "PBR": 3.02,
+        "ROE": 14.24,
+        "Debt": 71.6,
+        "RevenueGrowth": 7.3,
+        "EarningsGrowth": 15.5
+    },
+    "Information Technology": {
+        "PER": 39.87,
+        "PBR": 9.6,
+        "ROE": 22.78,
+        "Debt": 54.65,
+        "RevenueGrowth": 18.65,
+        "EarningsGrowth": 31.3
+    },
+    "Utilities": {
+        "PER": 22.09,
+        "PBR": 2.26,
+        "ROE": 9.79,
+        "Debt": 161.5,
+        "RevenueGrowth": 9.0,
+        "EarningsGrowth": 7.4
+    },
+    "Financials": {
+        "PER": 16.99,
+        "PBR": 2.14,
+        "ROE": 14.99,
+        "Debt": 56.21,
+        "RevenueGrowth": 9.0,
+        "EarningsGrowth": 25.3
+    },
+    "Materials": {
+        "PER": 30.65,
+        "PBR": 2.97,
+        "ROE": 12.91,
+        "Debt": 65.77,
+        "RevenueGrowth": 9.55,
+        "EarningsGrowth": 12.75
+    },
+    "Consumer Discretionary": {
+        "PER": 24.98,
+        "PBR": 6.7,
+        "ROE": 32.79,
+        "Debt": 127.72,
+        "RevenueGrowth": 9.4,
+        "EarningsGrowth": 7.1
+    },
+    "Real Estate": {
+        "PER": 31.82,
+        "PBR": 2.53,
+        "ROE": 7.42,
+        "Debt": 95.39,
+        "RevenueGrowth": 6.4,
+        "EarningsGrowth": 36.55
+    },
+    "Communication Services": {
+        "PER": 20.29,
+        "PBR": 2.11,
+        "ROE": 15.2,
+        "Debt": 67.87,
+        "RevenueGrowth": 8.8,
+        "EarningsGrowth": -10.4
+    },
+    "Consumer Staples": {
+        "PER": 23.9,
+        "PBR": 3.53,
+        "ROE": 19.15,
+        "Debt": 89.81,
+        "RevenueGrowth": 5.3,
+        "EarningsGrowth": 13.2
+    },
+    "Energy": {
+        "PER": 18.82,
+        "PBR": 2.32,
+        "ROE": 15.18,
+        "Debt": 42.66,
+        "RevenueGrowth": 4.2,
+        "EarningsGrowth": 21.65
+    }
+}
